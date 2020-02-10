@@ -1,0 +1,143 @@
+img{
+    height: 10%;
+    width: 10%;
+}
+
+#header{
+    background: url('image/a.jpg') repeat;
+}
+
+ #header li{
+    text-decoration-style: none;
+    list-style: none;
+    display: inline;
+    padding-left: 160px;
+    color: #ffffff;
+  
+  
+}
+
+header nav ul{
+  padding-top: 5px;
+}
+
+#madan{
+    float: left;
+}
+
+#header #fly{
+    float: left;
+    margin-right: 700px;
+    margin-left: 20px;
+    color: #ffffff
+}
+#header #fly h3{
+    margin: 0;
+}
+
+header nav{
+    background-color:darkslategray ;
+    height: 30px;
+}
+
+
+
+#blank img{
+    margin-top: 30px;
+    width: 10%;
+    border: 3px solid #f4f4f4;
+
+}
+
+.container{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.container #first{
+    border: 3px solid #f4f4f4;
+    width: 50%;
+   
+}
+
+.container #first img{
+    height: 50%;
+    width: 40%;
+    float: left;
+    margin-right: 10px;
+
+}
+.window{
+    float: right;
+}
+
+
+ #third img{
+    width: 45%;
+    height: 40%;
+    padding: 5px;
+}
+
+.container-1 #bla{
+    border: 10px solid red;
+}
+
+.container #third{
+   border: 3px solid #f4f4f4	;
+   width: 30%;
+    
+  
+}
+
+
+.container-1{
+    display:flex;
+    justify-content: space-between;
+}
+
+.container h1, .container-1 h1{
+    background-color: #e8491d;
+    color: #ffffff
+}
+
+
+    
+#first-one{
+    width: 75%;
+}
+
+
+.bla{
+    width: 90%;
+    margin-left: 40px;
+}
+
+#first-one img{
+    height: 50%;
+    width: 30%;
+}
+#first-one img{
+   
+ float: left;
+ margin-right: 10px;
+
+    }
+
+    #maka{
+        margin: 10px 100px;
+    }
+    #first h1, #third h1, #fourth h1, #first-one h1 , #five h1{
+        margin: 0;
+    }
+
+    footer{
+        background: #e8491d;
+        color: #ffffff;
+        padding: 2px;
+        text-align: center;
+        
+    }
+    
+
+
